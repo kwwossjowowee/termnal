@@ -1,7 +1,7 @@
 from threading import Thread
 import os
 def run_flask():
-  os.system("python flsk.py")
+  os.system("python3 flsk.py")
 def run_bot():
   os.system("node server.js")
 if True:
